@@ -7,5 +7,5 @@ Attributes :
 1. name (string)
 2. location (string)
 3. description (string)
-4. visitors_per_year (number)
+4. visitors (number)
 5. rating (number)
